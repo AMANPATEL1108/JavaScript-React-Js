@@ -1,0 +1,17 @@
+/* .heading {
+  color: blue;
+  text-decoration: line-through;
+  background-color: yellow;
+}
+
+    body {
+  background-color: pink;
+} */
+.box {
+  height: 100px;
+  width: 100px;
+  border: solid 1px black;
+  margin: 5px;
+  text-align: center;
+  background-color: aquamarine;
+}

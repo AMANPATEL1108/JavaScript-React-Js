@@ -1,0 +1,7 @@
+#tag1 {
+  color: red;
+}
+
+#tag1.blue {
+  color: black;
+}
